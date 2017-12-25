@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "523482618174",
+    "firebase_url": "https://sinup-fe61c.firebaseio.com",
+    "project_id": "sinup-fe61c",
+    "storage_bucket": "sinup-fe61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523482618174:android:14d7e862e7a25aa0",
+        "android_client_info": {
+          "package_name": "com.prajwal.sinup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523482618174-8e1ajb4b2dpf3rhjkgl3udtpqt9o5t0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prajwal.sinup",
+            "certificate_hash": "112e457bf289c0a354b64ee9f7de688809249fb2"
+          }
+        },
+        {
+          "client_id": "523482618174-569lhcbcdi6red86hrdj1teh4m0375e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VtID0X1nVGWCTtCA_JyS5cVd29G5cvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523482618174-569lhcbcdi6red86hrdj1teh4m0375e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
